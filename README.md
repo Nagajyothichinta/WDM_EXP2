@@ -44,12 +44,15 @@ G40,high,yes,excellent,yes
 ### OUTPUT:
 
 Training Data Set -> Buying Table
+
 ![image](https://github.com/Nagajyothichinta/WDM_EXP2/assets/94191344/95098695-2b92-4a1c-ac87-4720990f0ba6)
 
 Training Data Set -> Banking Table
+
 ![image](https://github.com/Nagajyothichinta/WDM_EXP2/assets/94191344/5ffe2d4f-ce6a-404e-ad08-ccc0f61feb61)
 
 Training Data Set -> Employee Table
+
 ![image](https://github.com/Nagajyothichinta/WDM_EXP2/assets/94191344/097ee3b8-982e-4751-a062-868f3f61cf90)
 
 
@@ -65,12 +68,15 @@ Training Data Set -> Employee Table
 ### OUTPUT:
 
 Buying Table
+
 ![image](https://github.com/Nagajyothichinta/WDM_EXP2/assets/94191344/1646491d-06a2-4330-b174-2afc02e30763)
 
 Banking Table
+
 ![image](https://github.com/Nagajyothichinta/WDM_EXP2/assets/94191344/3284a45f-d3eb-4b7f-8a0c-8eb03c601731)
 
 Employee Table
+
 ![image](https://github.com/Nagajyothichinta/WDM_EXP2/assets/94191344/3d7dfbd4-0497-421c-8225-88c8c96716e9)
 
 
